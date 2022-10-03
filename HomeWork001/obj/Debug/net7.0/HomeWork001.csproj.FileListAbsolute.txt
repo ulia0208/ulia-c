@@ -1,0 +1,15 @@
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/bin/Debug/net7.0/HomeWork001
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/bin/Debug/net7.0/HomeWork001.deps.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/bin/Debug/net7.0/HomeWork001.runtimeconfig.json
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/bin/Debug/net7.0/HomeWork001.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/bin/Debug/net7.0/HomeWork001.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/obj/Debug/net7.0/HomeWork001.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/obj/Debug/net7.0/HomeWork001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/obj/Debug/net7.0/HomeWork001.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/obj/Debug/net7.0/HomeWork001.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/obj/Debug/net7.0/HomeWork001.csproj.CoreCompileInputs.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/obj/Debug/net7.0/HomeWork001.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/obj/Debug/net7.0/refint/HomeWork001.dll
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/obj/Debug/net7.0/HomeWork001.pdb
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/obj/Debug/net7.0/HomeWork001.genruntimeconfig.cache
+/Users/ruslanshaymukhanov/Desktop/GeekBrains/ProgIntro/HomeWork001/obj/Debug/net7.0/ref/HomeWork001.dll
